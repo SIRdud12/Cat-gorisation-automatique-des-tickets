@@ -1,0 +1,5 @@
+id,texte,texte_nettoye
+1,Erreur de connexion à la base de données.,erreur connexion base donnée
+2,Impossible d’imprimer le document depuis l’application.,impossible imprimer document application
+3,Problème de mot de passe oublié pour l’utilisateur.,problème mot passer oublier utilisateur
+4,La page reste bloquée après avoir cliqué sur envoyer.,page bloquer cliquer envoyer
