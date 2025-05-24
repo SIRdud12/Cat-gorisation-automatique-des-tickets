@@ -5,6 +5,17 @@ SP - Catégorisation automatique des tickets
 
 Ce projet vise à automatiser la **classification des tickets IT** (incidents, demandes) en analysant leur contenu textuel (titre, description), en prédisant leur **catégorie** grâce à un **modèle de machine learning**, puis en **mettant à jour le ticket sur JIRA** avec la bonne étiquette.
 
+-----------------------------------------------------
+## 🎯 Focus : Responsable NLP & Données (Angea)
+
+Ce livrable se concentre sur la partie NLP du projet : préparation des données textuelles, nettoyage, vectorisation et évaluation.
+
+---
+
+## 🎯 Objectif du focus
+
+Automatiser la **classification des tickets IT** en analysant leur contenu textuel (titre, description), en prédisant leur **catégorie** grâce à un modèle IA, et en mettant à jour le ticket sur JIRA avec la bonne étiquette.
+
 ---
 
 ## 📌 Technologies utilisées
