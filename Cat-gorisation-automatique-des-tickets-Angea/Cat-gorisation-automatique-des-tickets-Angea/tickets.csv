@@ -1,0 +1,5 @@
+id,texte
+1,Erreur de connexion à la base de données.
+2,Impossible d’imprimer le document depuis l’application.
+3,Problème de mot de passe oublié pour l’utilisateur.
+4,La page reste bloquée après avoir cliqué sur envoyer.
