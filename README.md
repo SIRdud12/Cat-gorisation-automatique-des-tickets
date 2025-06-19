@@ -13,7 +13,7 @@ Ce projet Streamlit permet de gérer et classifier automatiquement des tickets c
 
 ##  Fonctionnalités
 
--  Dashboard style Zendesk
+-  Dashboard 
 -  Classification automatique avec TF-IDF + modèle ML
 -  Création de tickets
 -  Liste des tickets avec prédictions
