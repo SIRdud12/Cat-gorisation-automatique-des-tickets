@@ -66,13 +66,15 @@ def compare_models(X_train, X_test, y_train, y_test):
 
         cm = confusion_matrix(y_test, y_pred, labels=model.classes_)
         disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=model.classes_)
-        disp.plot(xticks_rotation=45, cmap=plt.cm.Blues)
+
+        # ✅ Amélioration de la lisibilité
+        fig, ax = plt.subplots(figsize=(16, 16))  # Taille de la figure
+        disp.plot(ax=ax, xticks_rotation=90, cmap=plt.cm.Blues)  # Rotation des labels
         plt.title(f"Matrice de confusion - {name}")
         plt.tight_layout()
 
-        # Sauvegarde et affichage
         filename = f"confusion_matrix_{name.replace(' ', '_')}.png"
-        plt.savefig(filename)
+        plt.savefig(filename, dpi=300)
         print(f"🖼️ Matrice de confusion sauvegardée sous {filename}")
         plt.show()
         plt.close()
@@ -123,9 +125,6 @@ def train_model(csv_file="tickets_annotes.csv"):
     joblib.dump(vectorizer, "vectorizer_tfidf.pkl")
     print("✅ Vectoriseur sauvegardé sous vectorizer_tfidf.pkl")
 
-# Lance l'entraînement
+# 🚀 Lancer l'entraînement
 if __name__ == "__main__":
     train_model()
-
-
-
