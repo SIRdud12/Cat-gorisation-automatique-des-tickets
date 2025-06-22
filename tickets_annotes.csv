@@ -1,0 +1,151 @@
+texte,catégorie
+Ticket 1 - Support utilisateur. Description simulée pour un cas de support utilisateur.,Support utilisateur
+Ticket 2 - Support utilisateur. Description simulée pour un cas de support utilisateur.,Support utilisateur
+Ticket 3 - Support utilisateur. Description simulée pour un cas de support utilisateur.,Support utilisateur
+Ticket 1 - Problème matériel. Description simulée pour un cas de problème matériel.,Problème matériel
+Ticket 2 - Problème matériel. Description simulée pour un cas de problème matériel.,Problème matériel
+Ticket 3 - Problème matériel. Description simulée pour un cas de problème matériel.,Problème matériel
+Ticket 1 - Problème logiciel. Description simulée pour un cas de problème logiciel.,Problème logiciel
+Ticket 2 - Problème logiciel. Description simulée pour un cas de problème logiciel.,Problème logiciel
+Ticket 3 - Problème logiciel. Description simulée pour un cas de problème logiciel.,Problème logiciel
+Ticket 1 - Accès / authentification. Description simulée pour un cas de accès / authentification.,Accès / authentification
+Ticket 2 - Accès / authentification. Description simulée pour un cas de accès / authentification.,Accès / authentification
+Ticket 3 - Accès / authentification. Description simulée pour un cas de accès / authentification.,Accès / authentification
+Ticket 1 - Réinitialisation mot de passe. Description simulée pour un cas de réinitialisation mot de passe.,Réinitialisation mot de passe
+Ticket 2 - Réinitialisation mot de passe. Description simulée pour un cas de réinitialisation mot de passe.,Réinitialisation mot de passe
+Ticket 3 - Réinitialisation mot de passe. Description simulée pour un cas de réinitialisation mot de passe.,Réinitialisation mot de passe
+Ticket 1 - Création de compte. Description simulée pour un cas de création de compte.,Création de compte
+Ticket 2 - Création de compte. Description simulée pour un cas de création de compte.,Création de compte
+Ticket 3 - Création de compte. Description simulée pour un cas de création de compte.,Création de compte
+Ticket 1 - Droit d’accès réseau. Description simulée pour un cas de droit d’accès réseau.,Droit d’accès réseau
+Ticket 2 - Droit d’accès réseau. Description simulée pour un cas de droit d’accès réseau.,Droit d’accès réseau
+Ticket 3 - Droit d’accès réseau. Description simulée pour un cas de droit d’accès réseau.,Droit d’accès réseau
+Ticket 1 - Sécurité informatique. Description simulée pour un cas de sécurité informatique.,Sécurité informatique
+Ticket 2 - Sécurité informatique. Description simulée pour un cas de sécurité informatique.,Sécurité informatique
+Ticket 3 - Sécurité informatique. Description simulée pour un cas de sécurité informatique.,Sécurité informatique
+Ticket 1 - Demande de matériel. Description simulée pour un cas de demande de matériel.,Demande de matériel
+Ticket 2 - Demande de matériel. Description simulée pour un cas de demande de matériel.,Demande de matériel
+Ticket 3 - Demande de matériel. Description simulée pour un cas de demande de matériel.,Demande de matériel
+Ticket 1 - Défaillance serveur. Description simulée pour un cas de défaillance serveur.,Défaillance serveur
+Ticket 2 - Défaillance serveur. Description simulée pour un cas de défaillance serveur.,Défaillance serveur
+Ticket 3 - Défaillance serveur. Description simulée pour un cas de défaillance serveur.,Défaillance serveur
+Ticket 1 - Mise à jour système. Description simulée pour un cas de mise à jour système.,Mise à jour système
+Ticket 2 - Mise à jour système. Description simulée pour un cas de mise à jour système.,Mise à jour système
+Ticket 3 - Mise à jour système. Description simulée pour un cas de mise à jour système.,Mise à jour système
+Ticket 1 - Sauvegarde / Restauration. Description simulée pour un cas de sauvegarde / restauration.,Sauvegarde / Restauration
+Ticket 2 - Sauvegarde / Restauration. Description simulée pour un cas de sauvegarde / restauration.,Sauvegarde / Restauration
+Ticket 3 - Sauvegarde / Restauration. Description simulée pour un cas de sauvegarde / restauration.,Sauvegarde / Restauration
+Ticket 1 - Bug applicatif. Description simulée pour un cas de bug applicatif.,Bug applicatif
+Ticket 2 - Bug applicatif. Description simulée pour un cas de bug applicatif.,Bug applicatif
+Ticket 3 - Bug applicatif. Description simulée pour un cas de bug applicatif.,Bug applicatif
+Ticket 1 - Incident réseau. Description simulée pour un cas de incident réseau.,Incident réseau
+Ticket 2 - Incident réseau. Description simulée pour un cas de incident réseau.,Incident réseau
+Ticket 3 - Incident réseau. Description simulée pour un cas de incident réseau.,Incident réseau
+Ticket 1 - Configuration poste de travail. Description simulée pour un cas de configuration poste de travail.,Configuration poste de travail
+Ticket 2 - Configuration poste de travail. Description simulée pour un cas de configuration poste de travail.,Configuration poste de travail
+Ticket 3 - Configuration poste de travail. Description simulée pour un cas de configuration poste de travail.,Configuration poste de travail
+Ticket 1 - Problème d’imprimante. Description simulée pour un cas de problème d’imprimante.,Problème d’imprimante
+Ticket 2 - Problème d’imprimante. Description simulée pour un cas de problème d’imprimante.,Problème d’imprimante
+Ticket 3 - Problème d’imprimante. Description simulée pour un cas de problème d’imprimante.,Problème d’imprimante
+Ticket 1 - Problème d’écran. Description simulée pour un cas de problème d’écran.,Problème d’écran
+Ticket 2 - Problème d’écran. Description simulée pour un cas de problème d’écran.,Problème d’écran
+Ticket 3 - Problème d’écran. Description simulée pour un cas de problème d’écran.,Problème d’écran
+Ticket 1 - VPN / Télétravail. Description simulée pour un cas de vpn / télétravail.,VPN / Télétravail
+Ticket 2 - VPN / Télétravail. Description simulée pour un cas de vpn / télétravail.,VPN / Télétravail
+Ticket 3 - VPN / Télétravail. Description simulée pour un cas de vpn / télétravail.,VPN / Télétravail
+Ticket 1 - Problème de connexion Wi-Fi. Description simulée pour un cas de problème de connexion wi-fi.,Problème de connexion Wi-Fi
+Ticket 2 - Problème de connexion Wi-Fi. Description simulée pour un cas de problème de connexion wi-fi.,Problème de connexion Wi-Fi
+Ticket 3 - Problème de connexion Wi-Fi. Description simulée pour un cas de problème de connexion wi-fi.,Problème de connexion Wi-Fi
+Ticket 1 - Dysfonctionnement email. Description simulée pour un cas de dysfonctionnement email.,Dysfonctionnement email
+Ticket 2 - Dysfonctionnement email. Description simulée pour un cas de dysfonctionnement email.,Dysfonctionnement email
+Ticket 3 - Dysfonctionnement email. Description simulée pour un cas de dysfonctionnement email.,Dysfonctionnement email
+Ticket 1 - Phishing / Spam. Description simulée pour un cas de phishing / spam.,Phishing / Spam
+Ticket 2 - Phishing / Spam. Description simulée pour un cas de phishing / spam.,Phishing / Spam
+Ticket 3 - Phishing / Spam. Description simulée pour un cas de phishing / spam.,Phishing / Spam
+Ticket 1 - Installation de logiciel. Description simulée pour un cas de installation de logiciel.,Installation de logiciel
+Ticket 2 - Installation de logiciel. Description simulée pour un cas de installation de logiciel.,Installation de logiciel
+Ticket 3 - Installation de logiciel. Description simulée pour un cas de installation de logiciel.,Installation de logiciel
+Ticket 1 - Problème avec messagerie. Description simulée pour un cas de problème avec messagerie.,Problème avec messagerie
+Ticket 2 - Problème avec messagerie. Description simulée pour un cas de problème avec messagerie.,Problème avec messagerie
+Ticket 3 - Problème avec messagerie. Description simulée pour un cas de problème avec messagerie.,Problème avec messagerie
+Ticket 1 - Requête base de données. Description simulée pour un cas de requête base de données.,Requête base de données
+Ticket 2 - Requête base de données. Description simulée pour un cas de requête base de données.,Requête base de données
+Ticket 3 - Requête base de données. Description simulée pour un cas de requête base de données.,Requête base de données
+Ticket 1 - Déploiement d’application. Description simulée pour un cas de déploiement d’application.,Déploiement d’application
+Ticket 2 - Déploiement d’application. Description simulée pour un cas de déploiement d’application.,Déploiement d’application
+Ticket 3 - Déploiement d’application. Description simulée pour un cas de déploiement d’application.,Déploiement d’application
+Ticket 1 - Erreur de script. Description simulée pour un cas de erreur de script.,Erreur de script
+Ticket 2 - Erreur de script. Description simulée pour un cas de erreur de script.,Erreur de script
+Ticket 3 - Erreur de script. Description simulée pour un cas de erreur de script.,Erreur de script
+Ticket 1 - Demande de formation. Description simulée pour un cas de demande de formation.,Demande de formation
+Ticket 2 - Demande de formation. Description simulée pour un cas de demande de formation.,Demande de formation
+Ticket 3 - Demande de formation. Description simulée pour un cas de demande de formation.,Demande de formation
+Ticket 1 - Support bureautique. Description simulée pour un cas de support bureautique.,Support bureautique
+Ticket 2 - Support bureautique. Description simulée pour un cas de support bureautique.,Support bureautique
+Ticket 3 - Support bureautique. Description simulée pour un cas de support bureautique.,Support bureautique
+Ticket 1 - Problème de lenteur. Description simulée pour un cas de problème de lenteur.,Problème de lenteur
+Ticket 2 - Problème de lenteur. Description simulée pour un cas de problème de lenteur.,Problème de lenteur
+Ticket 3 - Problème de lenteur. Description simulée pour un cas de problème de lenteur.,Problème de lenteur
+Ticket 1 - Migration de données. Description simulée pour un cas de migration de données.,Migration de données
+Ticket 2 - Migration de données. Description simulée pour un cas de migration de données.,Migration de données
+Ticket 3 - Migration de données. Description simulée pour un cas de migration de données.,Migration de données
+Ticket 1 - Incident de production. Description simulée pour un cas de incident de production.,Incident de production
+Ticket 2 - Incident de production. Description simulée pour un cas de incident de production.,Incident de production
+Ticket 3 - Incident de production. Description simulée pour un cas de incident de production.,Incident de production
+Ticket 1 - Monitoring / Supervision. Description simulée pour un cas de monitoring / supervision.,Monitoring / Supervision
+Ticket 2 - Monitoring / Supervision. Description simulée pour un cas de monitoring / supervision.,Monitoring / Supervision
+Ticket 3 - Monitoring / Supervision. Description simulée pour un cas de monitoring / supervision.,Monitoring / Supervision
+Ticket 1 - Configuration pare-feu. Description simulée pour un cas de configuration pare-feu.,Configuration pare-feu
+Ticket 2 - Configuration pare-feu. Description simulée pour un cas de configuration pare-feu.,Configuration pare-feu
+Ticket 3 - Configuration pare-feu. Description simulée pour un cas de configuration pare-feu.,Configuration pare-feu
+Ticket 1 - Test utilisateur. Description simulée pour un cas de test utilisateur.,Test utilisateur
+Ticket 2 - Test utilisateur. Description simulée pour un cas de test utilisateur.,Test utilisateur
+Ticket 3 - Test utilisateur. Description simulée pour un cas de test utilisateur.,Test utilisateur
+Ticket 1 - Gestion des licences. Description simulée pour un cas de gestion des licences.,Gestion des licences
+Ticket 2 - Gestion des licences. Description simulée pour un cas de gestion des licences.,Gestion des licences
+Ticket 3 - Gestion des licences. Description simulée pour un cas de gestion des licences.,Gestion des licences
+Ticket 1 - Ticket de relance fournisseur. Description simulée pour un cas de ticket de relance fournisseur.,Ticket de relance fournisseur
+Ticket 2 - Ticket de relance fournisseur. Description simulée pour un cas de ticket de relance fournisseur.,Ticket de relance fournisseur
+Ticket 3 - Ticket de relance fournisseur. Description simulée pour un cas de ticket de relance fournisseur.,Ticket de relance fournisseur
+Ticket 1 - Vérification conformité RGPD. Description simulée pour un cas de vérification conformité rgpd.,Vérification conformité RGPD
+Ticket 2 - Vérification conformité RGPD. Description simulée pour un cas de vérification conformité rgpd.,Vérification conformité RGPD
+Ticket 3 - Vérification conformité RGPD. Description simulée pour un cas de vérification conformité rgpd.,Vérification conformité RGPD
+Ticket 1 - Intégration API. Description simulée pour un cas de intégration api.,Intégration API
+Ticket 2 - Intégration API. Description simulée pour un cas de intégration api.,Intégration API
+Ticket 3 - Intégration API. Description simulée pour un cas de intégration api.,Intégration API
+Ticket 1 - Ticket de maintenance planifiée. Description simulée pour un cas de ticket de maintenance planifiée.,Ticket de maintenance planifiée
+Ticket 2 - Ticket de maintenance planifiée. Description simulée pour un cas de ticket de maintenance planifiée.,Ticket de maintenance planifiée
+Ticket 3 - Ticket de maintenance planifiée. Description simulée pour un cas de ticket de maintenance planifiée.,Ticket de maintenance planifiée
+Ticket 1 - Problème de sauvegarde automatique. Description simulée pour un cas de problème de sauvegarde automatique.,Problème de sauvegarde automatique
+Ticket 2 - Problème de sauvegarde automatique. Description simulée pour un cas de problème de sauvegarde automatique.,Problème de sauvegarde automatique
+Ticket 3 - Problème de sauvegarde automatique. Description simulée pour un cas de problème de sauvegarde automatique.,Problème de sauvegarde automatique
+Ticket 1 - Problème d’authentification SSO. Description simulée pour un cas de problème d’authentification sso.,Problème d’authentification SSO
+Ticket 2 - Problème d’authentification SSO. Description simulée pour un cas de problème d’authentification sso.,Problème d’authentification SSO
+Ticket 3 - Problème d’authentification SSO. Description simulée pour un cas de problème d’authentification sso.,Problème d’authentification SSO
+Ticket 1 - Incident sur cloud. Description simulée pour un cas de incident sur cloud.,Incident sur cloud
+Ticket 2 - Incident sur cloud. Description simulée pour un cas de incident sur cloud.,Incident sur cloud
+Ticket 3 - Incident sur cloud. Description simulée pour un cas de incident sur cloud.,Incident sur cloud
+Ticket 1 - Audit de sécurité. Description simulée pour un cas de audit de sécurité.,Audit de sécurité
+Ticket 2 - Audit de sécurité. Description simulée pour un cas de audit de sécurité.,Audit de sécurité
+Ticket 3 - Audit de sécurité. Description simulée pour un cas de audit de sécurité.,Audit de sécurité
+Ticket 1 - Vérification logs système. Description simulée pour un cas de vérification logs système.,Vérification logs système
+Ticket 2 - Vérification logs système. Description simulée pour un cas de vérification logs système.,Vérification logs système
+Ticket 3 - Vérification logs système. Description simulée pour un cas de vérification logs système.,Vérification logs système
+Ticket 1 - Anomalie de performance. Description simulée pour un cas de anomalie de performance.,Anomalie de performance
+Ticket 2 - Anomalie de performance. Description simulée pour un cas de anomalie de performance.,Anomalie de performance
+Ticket 3 - Anomalie de performance. Description simulée pour un cas de anomalie de performance.,Anomalie de performance
+Ticket 1 - Gestion de projet. Description simulée pour un cas de gestion de projet.,Gestion de projet
+Ticket 2 - Gestion de projet. Description simulée pour un cas de gestion de projet.,Gestion de projet
+Ticket 3 - Gestion de projet. Description simulée pour un cas de gestion de projet.,Gestion de projet
+Ticket 1 - Développement web. Description simulée pour un cas de développement web.,Développement web
+Ticket 2 - Développement web. Description simulée pour un cas de développement web.,Développement web
+Ticket 3 - Développement web. Description simulée pour un cas de développement web.,Développement web
+Ticket 1 - Déploiement CI/CD. Description simulée pour un cas de déploiement ci/cd.,Déploiement CI/CD
+Ticket 2 - Déploiement CI/CD. Description simulée pour un cas de déploiement ci/cd.,Déploiement CI/CD
+Ticket 3 - Déploiement CI/CD. Description simulée pour un cas de déploiement ci/cd.,Déploiement CI/CD
+Ticket 1 - Ticket de test QA. Description simulée pour un cas de ticket de test qa.,Ticket de test QA
+Ticket 2 - Ticket de test QA. Description simulée pour un cas de ticket de test qa.,Ticket de test QA
+Ticket 3 - Ticket de test QA. Description simulée pour un cas de ticket de test qa.,Ticket de test QA
+Ticket 1 - Gestion du parc informatique. Description simulée pour un cas de gestion du parc informatique.,Gestion du parc informatique
+Ticket 2 - Gestion du parc informatique. Description simulée pour un cas de gestion du parc informatique.,Gestion du parc informatique
+Ticket 3 - Gestion du parc informatique. Description simulée pour un cas de gestion du parc informatique.,Gestion du parc informatique

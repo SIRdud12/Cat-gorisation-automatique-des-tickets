@@ -1,0 +1,200 @@
+ * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      background-color: #fff;
+      color: #111;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 2rem;
+      background-color: #fff;
+      border-bottom: 1px solid #e5e7eb;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+ 
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+    }
+    .cta-btn {
+      background-color: #6e2dc9;
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .hero {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 3rem 3rem;
+      background: linear-gradient(to right, #f9fafb, #ffffff);
+      flex-wrap: wrap;
+      height: auto;
+       border-radius: 700px;
+        box-shadow: 0 4px 20px rgba(6, 6, 6, 0.1);
+        margin: 2rem 0;
+
+    }
+    .hero-text {
+      max-width: 50%;
+      min-width: 300px;
+      padding-top: 10rem;
+    }
+    .hero-text h1 {
+      font-size: 3rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      margin-left: 5rem;
+      margin-top: -10rem;
+    }
+    .hero-text p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+      margin-left: 5rem;
+    }
+    .hero-text button {
+      background-color: #6e2dc9;
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      margin-left: 5rem;
+    }
+    .hero img {
+      max-width: 70%;
+      max-height: 700px;
+      border-radius: 12px;
+      min-width: 250px;
+      margin-left: -10rem;
+    
+    }
+    .brands {
+      padding: 2rem;
+      text-align: center;
+      background-color: #f6f6f6;
+      
+    }
+    .brands img {
+      margin: 1rem;
+      max-width: 120px;
+    }
+    .solutions {
+      padding: 4rem 2rem;
+      background-color: #fff;
+    }
+    .solutions h2 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 3rem;
+    }
+    .solution-grid {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .solution-card {
+      background-color: #f1f4f6;
+      padding: 2rem;
+      border-radius: 10px;
+      width: 300px;
+      text-align: center;
+    }
+    .testimonials {
+      padding: 4rem 2rem;
+      background-color: #f9fafb;
+      text-align: center;
+    }
+    .testimonials blockquote {
+      font-size: 1.4rem;
+      font-style: italic;
+      max-width: 700px;
+      margin: auto;
+    }
+    .faq {
+      padding: 4rem 2rem;
+    }
+    .faq h2 {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .faq-item {
+      margin-bottom: 1.5rem;
+    }
+    .faq-item h4 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    footer {
+      background-color: #1f2937;
+      color: #ccc;
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+    }
+  h5 {
+  font-size: 5rem;
+  font-weight: 700;
+  color: #030304;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-right: auto; /* pousse le nav vers la droite */
+}
+
+@keyframes scroll {
+  0%   { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+.logo-slider img {
+  flex-shrink: 0;
+  padding: 0 1rem;
+  opacity: 0.85;
+  transition: transform 0.3s ease;
+}
+.logo-slider img:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+.brands .logo-slider {
+  display: flex;
+  gap: 3rem;
+  width: max-content;
+  animation: scroll 25s linear infinite;
+}
+.brands {
+  overflow-x: hidden;
+  position: relative;
+}
+.brands .logo-slider img {
+  flex-shrink: 0;
+  padding: 0 1rem;
+  opacity: 0.85;
+  transition: transform 0.3s ease;
+  height: 60px;
+}
+.brands .logo-slider img:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
